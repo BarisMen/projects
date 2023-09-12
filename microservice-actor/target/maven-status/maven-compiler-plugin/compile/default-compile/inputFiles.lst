@@ -1,0 +1,14 @@
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/MicroserviceTaskApplication.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/exceptions/EntityNotFoundException.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/dto/ActorDTO.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/mapper/ActorMapper.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/api/ActorController.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/service/ActorService.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/repository/ActorRepository.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/entity/MovieInfo.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/dto/QueryDTO.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/service/impl/ActorServiceImpl.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/repository/ActorSpecification.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/entity/Actor.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/mapper/MovieInfoMapper.java
+/home/trs_hd/workspace/graphQL/Baris Menekse-Innova Task/microservice-actor/src/main/java/com/menekse/baris/dto/MovieInfoDTO.java

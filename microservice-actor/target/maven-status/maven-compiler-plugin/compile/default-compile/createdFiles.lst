@@ -1,0 +1,16 @@
+com/menekse/baris/mapper/MovieInfoMapperImpl.class
+com/menekse/baris/mapper/MovieInfoMapper.class
+com/menekse/baris/MicroserviceTaskApplication.class
+com/menekse/baris/service/impl/ActorServiceImpl.class
+com/menekse/baris/repository/ActorRepository.class
+com/menekse/baris/dto/ActorDTO.class
+com/menekse/baris/service/ActorService.class
+com/menekse/baris/api/ActorController.class
+com/menekse/baris/exceptions/EntityNotFoundException.class
+com/menekse/baris/dto/QueryDTO.class
+com/menekse/baris/mapper/ActorMapper.class
+com/menekse/baris/mapper/ActorMapperImpl.class
+com/menekse/baris/dto/MovieInfoDTO.class
+com/menekse/baris/entity/MovieInfo.class
+com/menekse/baris/repository/ActorSpecification.class
+com/menekse/baris/entity/Actor.class
